@@ -26,13 +26,12 @@ Happy hunting !
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>  
 
 - [ ] Run amass  
-- [ ] Run subfinder  
+- [ ] Run subfinder / Wfuzz
 - [ ] Run assetfinder  
 - [ ] Run dnsgen  
 - [ ] Run massdns  
 - [ ] Use httprobe  
-- [ ] Run aquatone (screenshot for alive host)  
-
+- [ ] Run aquatone (screenshot for alive host)
 
 ## <a name="Single_domain">Single Domain</a>  
 
